@@ -84,7 +84,7 @@ public class CarService(AppDbContext db)
             p.Id,
             p.StartDate,
             p.EndDate,
-            p.Provider,
+            p.Provider ?? "Unknown",
             p.Claims
             .OrderBy(c => c.ClaimDate)
             .Select(c => new CreateClaimDto(
