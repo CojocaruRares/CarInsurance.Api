@@ -153,3 +153,4 @@ C:\Users\penta\Desktop\CarInsuranceApp\CarInsurance.Tests\obj\Debug\net8.0\refin
 C:\Users\penta\Desktop\CarInsuranceApp\CarInsurance.Tests\obj\Debug\net8.0\CarInsurance.Tests.pdb
 C:\Users\penta\Desktop\CarInsuranceApp\CarInsurance.Tests\obj\Debug\net8.0\CarInsurance.Tests.genruntimeconfig.cache
 C:\Users\penta\Desktop\CarInsuranceApp\CarInsurance.Tests\obj\Debug\net8.0\ref\CarInsurance.Tests.dll
+C:\Users\penta\Desktop\CarInsuranceApp\CarInsurance.Tests\obj\Debug\net8.0\CarInsurance.Tests.sourcelink.json
